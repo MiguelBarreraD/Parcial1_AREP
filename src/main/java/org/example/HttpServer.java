@@ -11,7 +11,7 @@ public class HttpServer {
         try {
             serverSocket = new ServerSocket(36000);
         } catch (IOException e) {
-            System.err.println("Could not listen on port: 35000.");
+            System.err.println("Could not listen on port: 36000.");
             System.exit(1);
         }
 
