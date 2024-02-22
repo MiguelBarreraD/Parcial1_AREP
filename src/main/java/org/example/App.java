@@ -14,5 +14,4 @@ public class App
         System.out.println( "Hello World!" );
     }
 
-    //Files.readAllBytes(Paths.get("" + requiestUri.getPath())
 }
